@@ -12,7 +12,7 @@
 
 - Khanacademy (English version) [link](https://en.khanacademy.org/)
 - kind of Probabilistic from Prof. Knudson [link](https://www.youtube.com/c/ProfessorKnudson/playlists)
-- MIT math,linear algebra [link](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A29)
+- MIT math and linear algebra [link](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A29)
 - Additional resource :
 1.[Statquest](https://www.youtube.com/c/joshstarmer/playlists)
 2.[3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists)
