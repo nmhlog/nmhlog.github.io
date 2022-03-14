@@ -1,9 +1,9 @@
 # Open source to learn
 
 ## Computational Thinking 101
-- Source 
+- Source
 1. [Kelas terbuka](https://www.youtube.com/watch?v=iXKnq7R19XQ)
-2. [Microsoft Research](https://www.youtube.com/watch?v=V9Xy18YEK9M) 
+2. [Microsoft Research](https://www.youtube.com/watch?v=V9Xy18YEK9M)
 3. [Bukalapak](https://www.youtube.com/watch?v=_6D0ks7wvtI)
 
 ## Basic Math,Probability and etc
@@ -14,8 +14,10 @@
 - kind of Probabilistic from Prof. Knudson [link](https://www.youtube.com/c/ProfessorKnudson/playlists)
 - MIT math and linear algebra [link](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A29)
 - Additional resource :
-1.[Statquest](https://www.youtube.com/c/joshstarmer/playlists)
-2.[3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists)
+1. [Statquest](https://www.youtube.com/c/joshstarmer/playlists)
+2. [3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists) (Math in general)
+3. [Steve Brunton](https://www.youtube.com/c/Eigensteve) (Machine Learning for control theory and dynamical system)
+4. [Deep Lizard](https://www.youtube.com/c/deeplizard) (Deep learning)
 
 ### Summary open Books
 
@@ -81,6 +83,17 @@
 - Kevin Patrick Murphy open books (after part I)
 
 - Dive To Deep learning [link](https://d2l.ai/)
+
+#### Pirated
+- Deep Learning [link](https://id.book4you.org/book/3679112/75e49c) (Recommended)
+
+- Neural Networks and Deep Learning: A Textbook [link](https://id.book4you.org/book/3652773/8fa4db) (Recommended)
+
+- Foundations of Machine Learning [link](https://id.book4you.org/book/3679818/325ce3)
+
+- Pattern Recognition and Machine Learning [link](https://id.book4you.org/book/436990/9ba3b9)
+
+- Data Mining: Practical Machine Learning Tools and Techniques, Fourth Edition [link](https://id.book4you.org/book/2819563/19de1e) (Recommended)
 
 ## Deep learning Frame Work
 
