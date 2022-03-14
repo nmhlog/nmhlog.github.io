@@ -48,10 +48,11 @@
     1. Introduction to Computer Science and Programming in Python [youtube](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)
     2. Introduction to Computational Thinking and Data Science [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-slides-and-files/)
 - Books: Python Programming And Numerical Methods: A Guide For Engineers And Scientists [link](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+- Books : Python Data Science Handbook [link](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Cognitive Class
     1. [Python for datascience](https://cognitiveclass.ai/courses/python-for-data-science)
     2. [Data Analyst With python](https://cognitiveclass.ai/courses/data-analysis-python)
-    3.[Data Visualization With Python](https://cognitiveclass.ai/courses/data-visualization-with-python)
+    3. [Data Visualization With Python](https://cognitiveclass.ai/courses/data-visualization-with-python)
 - Additional Resource: [Programiz](https://www.programiz.com/python-programming) [Real Python](https://realpython.com/tutorials/all/)
 
 ## Machine Learning,Deep Learning things
