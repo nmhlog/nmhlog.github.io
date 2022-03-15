@@ -59,7 +59,7 @@
     3. [Data Visualization With Python](https://cognitiveclass.ai/courses/data-visualization-with-python)
 
 - Jetbrain Academy [link](https://hyperskill.org/tracks)
-    - NOTE: [Jetbrain Academy/Hyperskill](https://hyperskill.org/tracks), is a course that directs you to learn by doing, unfortunately, this course is limited to certain times. first of all, you have to choose a project that gives you credits to study in 1 month and if you have completed it JetBrains will give you extra credits to learn more.
+    - NOTE: [Jetbrain Academy/Hyperskill](https://hyperskill.org/tracks), is a course that leads you to learn by doing. unfortunately, this course is limited to certain times. first of all, you have to choose a project that gives you credits to study in 1 month and if you complete it yet, JetBrains will give you extra credits to learn more.
   
 - Additional Resource: [Programiz](https://www.programiz.com/python-programming),[Real Python](https://realpython.com/tutorials/all/)
 
