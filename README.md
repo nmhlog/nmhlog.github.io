@@ -48,12 +48,19 @@
 - MIT COURSE :
     1. Introduction to Computer Science and Programming in Python [youtube](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA), [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)
     2. Introduction to Computational Thinking and Data Science [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd), [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-slides-and-files/)
+   
 - Books: Python Programming And Numerical Methods: A Guide For Engineers And Scientists [link](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
 - Books : Python Data Science Handbook [link](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 - Cognitive Class
     1. [Python for datascience](https://cognitiveclass.ai/courses/python-for-data-science)
     2. [Data Analyst With python](https://cognitiveclass.ai/courses/data-analysis-python)
     3. [Data Visualization With Python](https://cognitiveclass.ai/courses/data-visualization-with-python)
+
+- Jetbrain Academy [link](https://hyperskill.org/tracks)
+    - NOTE: [Jetbrain Academy/Hyperskill](https://hyperskill.org/tracks), is a course that directs you to learn by doing, unfortunately, this course is limited to certain times. first of all, you have to choose a project that gives you credits to study in 1 month and if you have completed it JetBrains will give you extra credits to learn more.
+  
 - Additional Resource: [Programiz](https://www.programiz.com/python-programming),[Real Python](https://realpython.com/tutorials/all/)
 
 ## Machine Learning,Deep Learning things
@@ -92,7 +99,7 @@
 
 ### unopen book
 - Neural Networks and Deep Learning: A Textbook [link](http://www.charuaggarwal.net/neural.htm) (Recommended)
-- 
+
 - Data Mining: Practical Machine Learning Tools and Techniques, Fourth Edition [link](https://www.cs.waikato.ac.nz/ml/weka/book.html) (Recommended)
 
 ## Deep learning Frame Work
