@@ -45,15 +45,15 @@
 ## All about Python
 
 - MIT COURSE :
-    1. Introduction to Computer Science and Programming in Python [youtube](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)
-    2. Introduction to Computational Thinking and Data Science [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-slides-and-files/)
+    1. Introduction to Computer Science and Programming in Python [youtube](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA), [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)
+    2. Introduction to Computational Thinking and Data Science [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd), [lecture source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-slides-and-files/)
 - Books: Python Programming And Numerical Methods: A Guide For Engineers And Scientists [link](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - Books : Python Data Science Handbook [link](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Cognitive Class
     1. [Python for datascience](https://cognitiveclass.ai/courses/python-for-data-science)
     2. [Data Analyst With python](https://cognitiveclass.ai/courses/data-analysis-python)
     3. [Data Visualization With Python](https://cognitiveclass.ai/courses/data-visualization-with-python)
-- Additional Resource: [Programiz](https://www.programiz.com/python-programming) [Real Python](https://realpython.com/tutorials/all/)
+- Additional Resource: [Programiz](https://www.programiz.com/python-programming),[Real Python](https://realpython.com/tutorials/all/)
 
 ## Machine Learning,Deep Learning things
 
@@ -85,16 +85,14 @@
 
 - Dive To Deep learning [link](https://d2l.ai/)
 
-#### Pirated
-- Deep Learning [link](https://id.book4you.org/book/3679112/75e49c) (Recommended)
+- Foundations of Machine Learning [link](https://cs.nyu.edu/~mohri/mlbook/)
 
-- Neural Networks and Deep Learning: A Textbook [link](https://id.book4you.org/book/3652773/8fa4db) (Recommended)
+- Pattern Recognition and Machine Learning [link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-- Foundations of Machine Learning [link](https://id.book4you.org/book/3679818/325ce3)
-
-- Pattern Recognition and Machine Learning [link](https://id.book4you.org/book/436990/9ba3b9)
-
-- Data Mining: Practical Machine Learning Tools and Techniques, Fourth Edition [link](https://id.book4you.org/book/2819563/19de1e) (Recommended)
+#### unopen book
+- Neural Networks and Deep Learning: A Textbook [link](http://www.charuaggarwal.net/neural.htm) (Recommended)
+- 
+- Data Mining: Practical Machine Learning Tools and Techniques, Fourth Edition [link](https://www.cs.waikato.ac.nz/ml/weka/book.html) (Recommended)
 
 ## Deep learning Frame Work
 
