@@ -90,7 +90,7 @@
 
 - Pattern Recognition and Machine Learning [link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-#### unopen book
+### unopen book
 - Neural Networks and Deep Learning: A Textbook [link](http://www.charuaggarwal.net/neural.htm) (Recommended)
 - 
 - Data Mining: Practical Machine Learning Tools and Techniques, Fourth Edition [link](https://www.cs.waikato.ac.nz/ml/weka/book.html) (Recommended)
