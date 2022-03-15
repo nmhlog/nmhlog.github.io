@@ -28,7 +28,7 @@
 - Mathematics for Machine Learning [Link](https://mml-book.github.io/)
     Online course :
         1.[coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
-        2.youtube [linear algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) [Multivariate Calculus](https://www.youtube.com/watch?v=cWZLPv4ZJhE&list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+        2.youtube [linear algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3), [Multivariate Calculus](https://www.youtube.com/watch?v=cWZLPv4ZJhE&list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 - Kevin Patrick Murphy open books (part I):
 
     1. Probabilistic Machine Learning: Advanced Topics[link](https://probml.github.io/pml-book/book2.html#toc)
@@ -97,7 +97,7 @@
 
 - Pattern Recognition and Machine Learning [link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-### unopen book
+### Unopen book
 - Neural Networks and Deep Learning: A Textbook [link](http://www.charuaggarwal.net/neural.htm) (Recommended)
 
 - Data Mining: Practical Machine Learning Tools and Techniques, Fourth Edition [link](https://www.cs.waikato.ac.nz/ml/weka/book.html) (Recommended)
