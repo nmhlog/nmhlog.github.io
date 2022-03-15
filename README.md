@@ -38,9 +38,10 @@
 ### Specific open books
 
 - Introduction to probability, statistics, and random processes [link](https://www.probabilitycourse.com/)
+- 
 - Probability and Statistics - The Science of Uncertainty, Second Edition [link](http://www.utstat.toronto.edu/mikevans/jeffrosenthal/)
 
-- Linear Algebra [link](https://hefferon.net/linearalgebra/) [video](https://www.youtube.com/playlist?list=PLwF3A0R8OzMoMlE1-SaEh8h9VqUlO-r52)
+- Linear Algebra [link](https://hefferon.net/linearalgebra/), [video](https://www.youtube.com/playlist?list=PLwF3A0R8OzMoMlE1-SaEh8h9VqUlO-r52)
 
 ## All about Python
 
