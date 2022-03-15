@@ -31,7 +31,7 @@
         2.youtube [linear algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3), [Multivariate Calculus](https://www.youtube.com/watch?v=cWZLPv4ZJhE&list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 - Kevin Patrick Murphy open books (part I):
 
-    1. Probabilistic Machine Learning: Advanced Topics[link](https://probml.github.io/pml-book/book2.html#toc)
+    1. Probabilistic Machine Learning: Advanced Topics [link](https://probml.github.io/pml-book/book2.html#toc)
 
     2. Probabilistic Machine Learning: An Introduction [link](https://probml.github.io/pml-book/book1.html#toc)
 
