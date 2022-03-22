@@ -13,6 +13,7 @@
 - Khanacademy (English version) [link](https://en.khanacademy.org/)
 - kind of Probabilistic from Prof. Knudson [link](https://www.youtube.com/c/ProfessorKnudson/playlists)
 - MIT math and linear algebra [link](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A29)
+- Foundations of Machine Learning [link](https://bloomberg.github.io/foml/#home)
 - Additional resource :
 1. [Statquest](https://www.youtube.com/c/joshstarmer/playlists)
 2. [3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists) (Math in general)
@@ -72,7 +73,7 @@
 - 101 Deep learnig MIT [link](https://www.youtube.com/watch?v=7sB052Pz0sQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 - Standford
-    1. Machine learning with graph [link](https://www.youtube.com/watch?v=aBHC6xzx9YIlist=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2)
+    1. Machine learning with graph [link](https://www.youtube.com/watch?v=aBHC6xzx9YIlist=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2), [cource](http://web.stanford.edu/class/cs224w/)
     2. NLP with Deep Learning [link](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
     3. Introduction to Deep Learning for Computer Vision [link](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
@@ -112,6 +113,7 @@
 - Tensorflow official website [link](https://www.tensorflow.org/tutorials)
 - Pytorch Official Website [link](https://pytorch.org/tutorials/)
 - [https://uvadlc-notebooks.readthedocs.io/en/latest/index.html](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+- full stack deep learning [link](https://fullstackdeeplearning.com/)
 
 ### Open book
 
