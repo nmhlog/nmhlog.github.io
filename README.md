@@ -76,7 +76,7 @@
     1. Machine learning with graph [link](https://www.youtube.com/watch?v=aBHC6xzx9YIlist=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2), [cource](http://web.stanford.edu/class/cs224w/)
     2. NLP with Deep Learning [link](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
     3. Introduction to Deep Learning for Computer Vision [link](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-
+    4. Mining Massive Data Sets [link](http://www.mmds.org/#courses)
 - TUM
 
    1. Introduction to Deep learning [link](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e)
