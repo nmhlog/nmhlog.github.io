@@ -78,9 +78,10 @@
     3. Introduction to Deep Learning for Computer Vision [link](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
     4. Mining Massive Data Sets [link](http://www.mmds.org/#courses)
 - TUM
-
    1. Introduction to Deep learning [link](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e)
    2. Computer vision playlist [link](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ/playlists)
+- Soul National University
+   1. Machine Learning for Visual Understanding[link](https://www.youtube.com/playlist?list=PL0E_1UqNACXDxBXdxTHZmRVIfzGpCnAbq)
 
 ### Books
 
